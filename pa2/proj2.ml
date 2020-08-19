@@ -129,8 +129,7 @@ let tryDerive (g : grammar) (inputStr : string list) : bool =
               |[] ->
 
               in 
-  (*cant get this thing to work and have too many other things to work on. 
-  idk if this is autograded but the code above is what i was able to convert from charlie's Q&A session before stopping*)
+  (*the code above is what i was able to convert from charlie's Q&A session before stopping*)
   *)
 false;;
 
